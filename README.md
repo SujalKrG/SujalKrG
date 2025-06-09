@@ -1,17 +1,43 @@
-## Hi there 👋
+## Hi there 👋 I'm Sujal!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SujalKrG)](https://git.io/streak-stats)
-<!--
-**SujalKrG/SujalKrG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** passionate about building web applications, learning new tech, and turning ideas into real-world projects. Currently diving deep into the **MERN stack** and leveling up my **frontend skills** with hands-on projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- 🔭 Building full-stack MERN projects (MongoDB, Express, React, Node)
+- 💡 Practicing frontend magic with HTML, CSS, and JavaScript
+- 📈 Improving UI/UX and responsive design techniques
+
+---
+
+### 🛠️ Technologies & Tools
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+---
+
+### 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SujalKrG)](https://git.io/streak-stats)  
+[![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujalKrG&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌐 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/sujalkrg)
+- 📫 Reach me at: sujalkrghosh@gmail.com
+- 🧠 Check out my [Typing Speed Test Game](https://sujalkrg.github.io/typing-speed-test/)
+
+---
+
+🔁 Always building, always learning.
+
+
+---
