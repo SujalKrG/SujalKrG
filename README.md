@@ -32,7 +32,6 @@ I'm a **Full Stack Developer** passionate about building web applications, learn
 ### 🌐 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/sujalkrghosh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📫 Reach me at: sujalkrghosh@gmail.com
-- 🧠 Check out my [Typing Speed Test Game](https://sujalkrg.github.io/typing-speed-test/)
 
 ---
 
