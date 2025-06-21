@@ -25,7 +25,8 @@ I'm a **Full Stack Developer** passionate about building web applications, learn
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=SujalKrG&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SujalKrG)
+
 
 ---
 
