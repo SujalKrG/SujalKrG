@@ -27,7 +27,6 @@ I'm a **Full Stack Developer** passionate about building web applications, learn
 ### 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=SujalKrG&theme=dark)](https://git.io/streak-stats)
 
-
 ---
 
 ### 🌐 Let's Connect
