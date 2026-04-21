@@ -59,4 +59,4 @@ Currently exploring **Nest.js**, **BullMQ**, and deeper **SQL + NoSQL** architec
 
 ---
 
-🔁 Always building, always learning.
+🔁 Always building, always learning
