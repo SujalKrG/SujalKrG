@@ -2,14 +2,13 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-stack+developer;Building+mcpx;Backend+architecture+enthusiast)
 
 Full-stack developer who likes systems that don't fall over.
-I spend most of my time in backend architecture, and right now I'm building **mcpx**, a CLI tool that syncs your MCP server configs across every AI client you use, so you stop copy-pasting the same setup into Claude Code, Cursor and VS Code.
+I spend most of my time in backend architecture.
 
 > I've shipped code alone at 2am and I've shipped code with a team. Both taught me different things.
 
 ---
 
 ### 🚀 Current Focus
-- 🔭 Building **mcpx**, a CLI for managing MCP server configs across AI dev tools
 - 🧠 Designing scalable backend architecture with a strong TypeScript foundation
 - ⚡ Working with queues, workers and real-time systems using BullMQ and Redis
 
@@ -61,7 +60,3 @@ I spend most of my time in backend architecture, and right now I'm building **mc
 ### 🌐 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/sujalkrghosh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📫 Reach me at: sujalkrghosh@gmail.com
-
----
-
-🔁 Always building, always learning
